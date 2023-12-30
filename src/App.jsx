@@ -1,6 +1,4 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
@@ -18,12 +16,12 @@ function App() {
       </div>
       <div>
         <a href="https://www.linkedin.com/in/tim-pasket/">
-          <img src="/src/assets/linkedIn-icon-better.png" alt="linkedInIcon" />
+          <img src="/linkedIn-icon-better.png" alt="linkedInIcon" />
         </a>
         <a href="https://github.com/TimPasket">
           <img
             className="gitIcon"
-            src="/src/assets/github-icon-best.png"
+            src="/github-icon-best.png"
             alt="githubIcon"
           />
         </a>
