@@ -8,7 +8,7 @@ export default function TempBody() {
         </h2>
         <p>
           In the mean time, you can check out ongoing progress on GitHub or
-          explore my LinkedIn profile
+          explore my LinkedIn profile!
         </p>
       </div>
       <div className="flex flex-row">
